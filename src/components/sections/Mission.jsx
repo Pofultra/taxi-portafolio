@@ -3,7 +3,7 @@ import { Phone, MessageSquare, Car, Clock, Shield, Star, MapPin, Mail, Users, Se
 
 export const Mission = () => {
   return (
-    <section className="py-16 bg-black text-white">
+    <section id="mission"  className="py-16 bg-black text-white">
     <div className="container mx-auto px-4">
       <div className="max-w-3xl mx-auto space-y-12">
         <div className="text-center">

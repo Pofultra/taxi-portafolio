@@ -3,7 +3,7 @@ import { Phone, MessageSquare, ChevronDown } from 'lucide-react';
 
 export const Hero = () => {
   return (
-    <section className="relative h-screen bg-black text-white pt-16">
+    <section id="inicio" className="relative h-screen bg-black text-white pt-16">
       <div className="absolute inset-0 bg-[url('/public/taxi-amarillo-conduciendo-calle-edificios-al-fondo_725455-658.png')] opacity-50 bg-cover bg-center" />
       <div className="relative container mx-auto px-4 h-full flex flex-col justify-center items-center text-center space-y-8">
         <h1 className="text-4xl md:text-6xl font-bold tracking-wider space-y-2">

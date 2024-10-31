@@ -4,8 +4,8 @@ import { Car, Users, Settings, Wind } from 'lucide-react';
 
 export const About = () => {
   return (
-    <section className="py-16 bg-gray-100">
-      <div className="container mx-auto px-4">
+    <section id="about_us" className="py-16 bg-gray-100">
+      <div  className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-8">About Us</h2>
         <div className="max-w-2xl mx-auto space-y-8">
           <p className="text-gray-700 text-center">
