@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/taxi-portafolio/static/css/main.175d067a.css",
+    "main.js": "/taxi-portafolio/static/js/main.a6ae39f6.js",
+    "static/js/453.76651658.chunk.js": "/taxi-portafolio/static/js/453.76651658.chunk.js",
+    "static/media/taxi-amarillo-conduciendo-calle-edificios-al-fondo_725455-658.png": "/taxi-portafolio/static/media/taxi-amarillo-conduciendo-calle-edificios-al-fondo_725455-658.ed7b45ba5030e0aa3bfa.png",
+    "index.html": "/taxi-portafolio/index.html",
+    "main.175d067a.css.map": "/taxi-portafolio/static/css/main.175d067a.css.map",
+    "main.a6ae39f6.js.map": "/taxi-portafolio/static/js/main.a6ae39f6.js.map",
+    "453.76651658.chunk.js.map": "/taxi-portafolio/static/js/453.76651658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175d067a.css",
+    "static/js/main.a6ae39f6.js"
+  ]
+}
