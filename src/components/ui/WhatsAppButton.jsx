@@ -3,7 +3,7 @@ import React from 'react';
 import { Send } from 'lucide-react';
 
 export const WhatsAppButton = () => {
-  const phoneNumber = '+5353616391';
+  const phoneNumber = '+5312316123';
   const message = encodeURIComponent('Hola, estoy interesado en sus servicios de transportación.');
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${message}`;
 

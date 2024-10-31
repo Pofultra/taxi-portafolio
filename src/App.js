@@ -16,9 +16,13 @@ const App = () => (
   <Header />
   <main>
     <Hero />
+    <div className="bg-yellow-500 h-1" />
     <About />
+    <div className="bg-yellow-500 h-1" />
     <Services />
+    <div className="bg-yellow-500 h-1" />
     <Mission />
+    <div className="bg-yellow-500 h-1" />
     <Contact />
   </main>
   <Footer />
